@@ -28,6 +28,7 @@
 <p align="center">
   <a href="#about-me">About</a> &nbsp; / &nbsp;
   <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#building-next">Next</a> &nbsp; / &nbsp;
   <a href="#scanora">Scanora</a> &nbsp; / &nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
   <a href="#lets-build-something-useful">Contact</a>
@@ -127,6 +128,39 @@ These are selected **public repositories** that best represent my work. Each one
 
 <p align="center">
   <a href="https://github.com/NorphyOG?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PUBLIC_PROJECTS-123528?style=for-the-badge&amp;logo=github&amp;logoColor=00FF88" alt="Explore all public repositories" /></a>
+</p>
+
+---
+
+## Building next
+
+<p align="center">
+  <strong>A small preview of the directions I'm exploring next.</strong><br />
+  <sub>Directions, not deadlines — experiments become public when they are ready to share.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎮 Game development</h3>
+      <p>Prototyping gameplay ideas, small interactive systems, and tools with Unity and Godot.</p>
+      <p><code>IN EXPLORATION</code></p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>✨ Applied AI</h3>
+      <p>Exploring where AI can make document workflows and everyday tools genuinely more useful.</p>
+      <p><code>EXPERIMENTING</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Smarter workflows</h3>
+      <p>Building the next layer of focused automation around documents, review, and repetitive work.</p>
+      <p><code>BUILDING</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>No private repositories or unreleased project details are exposed here.</sub>
 </p>
 
 ---
