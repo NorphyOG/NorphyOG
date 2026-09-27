@@ -212,5 +212,6 @@ A few things I've been building — from document tools to automation.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=85&amp;section=footer&amp;color=0:00FF88,100:2563EB" width="100%" alt="" />
 
-<!-- Visual services: Capsule Render, Readme Typing SVG, Shields.io, Skill Icons,
-     GitHub Stats Extended, GitHub Readme Activity Graph. No tokens in this file. -->
+<!-- Visual services: Capsule Render (animated hero fade-in), Readme Typing SVG
+     (animated rotating tagline), Shields.io, Skill Icons, GitHub Stats Extended,
+     and GitHub Readme Activity Graph. No tokens in this file. -->
