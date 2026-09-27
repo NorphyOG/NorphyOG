@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Jerome · Software Developer · Founder of <a href="https://scanora.org">Scanora</a></strong><br />
-  <sub>Based in Germany. Building tools, workflows, and the occasional side quest.</sub>
+  <strong>Hi, I'm Jerome — software developer and founder of <a href="https://scanora.org">Scanora</a>.</strong><br />
+  <sub>I turn repetitive work into focused software, useful automation, and reliable document workflows.</sub>
 </p>
 
 <p align="center">
@@ -22,10 +22,111 @@
 </p>
 
 <p align="center">
+  <code>BUILD</code> &nbsp;&bull;&nbsp; <code>AUTOMATE</code> &nbsp;&bull;&nbsp; <code>DIGITIZE</code>
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp; / &nbsp;
   <a href="#scanora">Scanora</a> &nbsp; / &nbsp;
-  <a href="#projects">Projects</a> &nbsp; / &nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#activity">Activity</a>
+  <a href="#lets-build-something-useful">Contact</a>
+</p>
+
+---
+
+## About me
+
+I'm a software developer from Germany who enjoys taking an awkward, repetitive process and making it simpler. My work sits at the intersection of **software development, workflow automation, and document digitization**.
+
+I founded [**Scanora**](https://scanora.org) to bring that mindset into the real world: transforming physical archives into structured, searchable information. Alongside it, I build open-source desktop apps, developer tools, and experiments that solve concrete problems rather than just demonstrate a technology.
+
+```ts
+const jerome = {
+  role: "Software Developer & Founder",
+  building: "Scanora",
+  focus: ["automation", "document workflows", "developer tools"],
+  exploring: ["AI", "computer vision", "game development"],
+  approach: "understand → simplify → build → improve",
+};
+```
+
+> I like projects that start with “there has to be a better way to do this.” Sometimes the answer is a small script; sometimes it becomes a product or a business.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>⚡ Build</strong><br />
+      <sub>Focused applications and developer tools built around real use cases.</sub>
+    </td>
+    <td width="34%" valign="top">
+      <strong>⚙️ Automate</strong><br />
+      <sub>Repeatable workflows that replace avoidable manual steps.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>📄 Digitize</strong><br />
+      <sub>Searchable, reviewed information instead of inaccessible paper.</sub>
+    </td>
+  </tr>
+</table>
+
+## Featured projects
+
+These are selected **public repositories** that best represent my work. Each one started with a concrete problem and grew into a practical tool with a clear job to do.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NorphyOG/cutoversignal">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:123D2B&amp;text=MIGRATION&amp;fontSize=64&amp;fontColor=00FF88" width="100%" alt="CutoverSignal migration tooling" />
+      </a>
+      <h3><a href="https://github.com/NorphyOG/cutoversignal">CutoverSignal</a></h3>
+      <p><strong>Know what will break before an EWS migration begins.</strong></p>
+      <p>A source-code scanner that identifies Exchange Web Services dependencies before teams plan a move to Microsoft Graph. It turns migration discovery into a repeatable check and can run locally or in CI.</p>
+      <p><sub>DEVELOPER TOOL · MIGRATION READINESS</sub></p>
+      <p><code>TypeScript</code> <code>CLI</code> <code>GitHub Actions</code></p>
+      <p><a href="https://github.com/NorphyOG/cutoversignal"><strong>View public repository &rarr;</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NorphyOG/multi-auto-Clicker">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:123D2B&amp;text=AUTOMATION&amp;fontSize=64&amp;fontColor=00FF88" width="100%" alt="Multi Auto Clicker desktop automation" />
+      </a>
+      <h3><a href="https://github.com/NorphyOG/multi-auto-Clicker">Multi Auto Clicker</a></h3>
+      <p><strong>Automate more than a single repeated click.</strong></p>
+      <p>A desktop automation tool for assembling scripts with conditions, loops, and parallel tasks. It is designed for workflows that need more control than a traditional auto clicker provides.</p>
+      <p><sub>DESKTOP APP · WORKFLOW AUTOMATION</sub></p>
+      <p><code>Python</code> <code>Automation</code> <code>Desktop</code></p>
+      <p><a href="https://github.com/NorphyOG/multi-auto-Clicker"><strong>View public repository &rarr;</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NorphyOG/PDF-Ortner-Sorter">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:142F59&amp;text=DOCUMENTS&amp;fontSize=64&amp;fontColor=58A6FF" width="100%" alt="PDF Folder Sorter document workflow" />
+      </a>
+      <h3><a href="https://github.com/NorphyOG/PDF-Ortner-Sorter">PDF Folder Sorter</a></h3>
+      <p><strong>Turn a folder of scans into an organized handoff.</strong></p>
+      <p>A dedicated Windows application for previewing, selecting, and sorting scanned PDFs. It keeps visual review and file organization together in one focused workflow.</p>
+      <p><sub>WINDOWS APP · DOCUMENT WORKFLOW</sub></p>
+      <p><code>C#</code> <code>.NET</code> <code>WPF</code></p>
+      <p><a href="https://github.com/NorphyOG/PDF-Ortner-Sorter"><strong>View public repository &rarr;</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NorphyOG/mikroskop-app">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:142F59&amp;text=IMAGING&amp;fontSize=64&amp;fontColor=58A6FF" width="100%" alt="Mikroskop App imaging tools" />
+      </a>
+      <h3><a href="https://github.com/NorphyOG/mikroskop-app">Mikroskop App</a></h3>
+      <p><strong>Bring USB microscopy and image analysis into one app.</strong></p>
+      <p>An imaging application with a live microscope preview, image capture, and analysis features. It explores how computer vision can support hands-on inspection workflows.</p>
+      <p><sub>DESKTOP APP · COMPUTER VISION</sub></p>
+      <p><code>Python</code> <code>OpenCV</code> <code>Imaging</code></p>
+      <p><a href="https://github.com/NorphyOG/mikroskop-app"><strong>View public repository &rarr;</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/NorphyOG?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PUBLIC_PROJECTS-123528?style=for-the-badge&amp;logo=github&amp;logoColor=00FF88" alt="Explore all public repositories" /></a>
 </p>
 
 ---
@@ -42,7 +143,7 @@
   <strong>Turning paper archives into information you can actually find.</strong>
 </p>
 
-I founded **Scanora** to help businesses, law firms, and medical practices digitize their documents — with **searchable PDFs, quality checks, and structured delivery**.
+I founded **Scanora** to help businesses, law firms, and medical practices digitize their documents — with **searchable PDFs, quality checks, and structured delivery**. The goal is not simply to scan paper, but to make the information inside it useful again.
 
 I also build the software behind the workflow: tools for processing documents, reviewing results, and cutting down repetitive work.
 
@@ -68,85 +169,13 @@ I also build the software behind the workflow: tools for processing documents, r
 </p>
 
 <p align="center">
+  <sub>Built for businesses, law firms, and medical practices in the Bonn, Cologne, and Rhein-Sieg region.</sub>
+</p>
+
+<p align="center">
   <a href="https://scanora.org"><img src="https://img.shields.io/badge/DISCOVER_SCANORA-1D4ED8?style=for-the-badge" alt="Discover Scanora" /></a>
   &nbsp;
   <a href="mailto:jerome.weber@scanora.org?subject=Scanora%20project%20inquiry"><img src="https://img.shields.io/badge/TALK_ABOUT_YOUR_PROJECT-161B22?style=for-the-badge" alt="Discuss a document digitization project" /></a>
-  <br /><br />
-  <sub>Sankt Augustin · Bonn · Cologne · Rhein-Sieg</sub>
-</p>
-
----
-
-<details>
-  <summary><strong>🖥️ Open terminal — a little about me</strong></summary>
-
-<br />
-
-```ts
-const norphy = {
-  name: "Jerome",
-  building: "Scanora",
-  focus: ["automation", "document workflows", "developer tools"],
-  sideQuests: ["AI experiments", "game development"],
-  approach: "understand → simplify → build → improve",
-  discord: ".norphy",
-};
-```
-
-I like projects that start with “there has to be a better way to do this.”
-Sometimes that becomes a small script. Sometimes it becomes a business.
-
-</details>
-
-## Projects
-
-A few things I've been building — from document tools to automation.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NorphyOG/cutoversignal">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:123D2B&amp;text=MIGRATION&amp;fontSize=64&amp;fontColor=00FF88" width="100%" alt="Migration tooling" />
-      </a>
-      <h3><a href="https://github.com/NorphyOG/cutoversignal">CutoverSignal</a></h3>
-      <p>Find EWS dependencies in source code before planning a move to Microsoft Graph.</p>
-      <p><code>TypeScript</code> <code>CLI</code> <code>GitHub Actions</code></p>
-      <p><a href="https://github.com/NorphyOG/cutoversignal"><strong>Explore the scanner &rarr;</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NorphyOG/multi-auto-Clicker">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:123D2B&amp;text=AUTOMATION&amp;fontSize=64&amp;fontColor=00FF88" width="100%" alt="Desktop automation" />
-      </a>
-      <h3><a href="https://github.com/NorphyOG/multi-auto-Clicker">Multi Auto Clicker</a></h3>
-      <p>Background automation with scripts, conditions, loops, and parallel tasks.</p>
-      <p><code>Python</code> <code>Automation</code> <code>Desktop</code></p>
-      <p><a href="https://github.com/NorphyOG/multi-auto-Clicker"><strong>Explore the tool &rarr;</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NorphyOG/PDF-Ortner-Sorter">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:142F59&amp;text=DOCUMENTS&amp;fontSize=64&amp;fontColor=58A6FF" width="100%" alt="Document tools" />
-      </a>
-      <h3><a href="https://github.com/NorphyOG/PDF-Ortner-Sorter">PDF Folder Sorter</a></h3>
-      <p>Preview, select, and organize scanned PDFs with a dedicated Windows application.</p>
-      <p><code>C#</code> <code>.NET</code> <code>WPF</code></p>
-      <p><a href="https://github.com/NorphyOG/PDF-Ortner-Sorter"><strong>Explore the workflow &rarr;</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NorphyOG/mikroskop-app">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=130&amp;color=0:0D1117,100:142F59&amp;text=IMAGING&amp;fontSize=64&amp;fontColor=58A6FF" width="100%" alt="Imaging tools" />
-      </a>
-      <h3><a href="https://github.com/NorphyOG/mikroskop-app">Mikroskop App</a></h3>
-      <p>USB microscopy with live preview, image capture, and image analysis.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>Imaging</code></p>
-      <p><a href="https://github.com/NorphyOG/mikroskop-app"><strong>Explore the application &rarr;</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/NorphyOG?tab=repositories"><strong>All repositories &rarr;</strong></a>
 </p>
 
 ## Toolbox
@@ -165,6 +194,10 @@ A few things I've been building — from document tools to automation.
 
 <p align="center">
   <code>REST APIs</code> &nbsp; <code>SQL</code> &nbsp; <code>OCR pipelines</code> &nbsp; <code>Workflow automation</code>
+</p>
+
+<p align="center">
+  <sub>Tools are selected by the problem—not the other way around.</sub>
 </p>
 
 ## Activity
@@ -188,7 +221,7 @@ A few things I've been building — from document tools to automation.
 
 ---
 
-<h2 align="center">Got something worth building?</h2>
+<h2 id="lets-build-something-useful" align="center">Let's build something useful.</h2>
 
 <p align="center">
   Document digitization, software, automation, or an interesting collaboration.<br />
